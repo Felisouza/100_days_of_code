@@ -19,3 +19,10 @@
 <center>
 <img src = './Imagens/array_diff.png', width = 800px>
 </center>
+
+## Dia 2 - 21/03/2021
+- Li um artigo sobre orientação a objetos em Java do site do [Dev Media](https://www.devmedia.com.br/introducao-a-programacao-orientada-a-objetos-em-java/26452). Apesar de ser em outra linguagem de programação, que não conheço bem, os conceitos são os mesmo que em Python. Serviu para fixar melhor os conceitos.
+- Fiz 2 exercícios no CodeWars
+<center>
+<img src = './Imagens/troll.png', width = 800px>
+</center>
