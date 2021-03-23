@@ -33,3 +33,11 @@
 <center>
 <img src = './Imagens/dia 03- 2021-03-22 19.41.16.png', width = 800px>
 </center>
+
+## Dia 04 - 23/03
+- Tentei fazer um kata no CodeWars, mas não consegui terminar ainda. Achei esse bem mais difícil em comparação aos outros.
+- Assisti a algumas aulas do curso da [Alura](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos) de POO.
+<center>
+<img src = './Imagens/Dia04.jpg', width = 800px>
+</center>
+
