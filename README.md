@@ -41,3 +41,9 @@
 <img src = './Imagens/Dia04.jpg', width = 800px>
 </center>
 
+## Dia 05 - 24/03
+- Depois de 1h30 em um desafio do CodeWars consegui resolvê-lo parcialmente. De 50 testes 3 continuam dando errado.  
+Mas, vi as soluções dos outros usuários e um deles me deu uma luz, resolver o problema através de dicionário. Vou tentar resolvê-lo de outra maneira depois.
+<center>
+<img src = './Imagens/Dia05.png', width = 800px>
+</center>
