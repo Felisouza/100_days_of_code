@@ -47,3 +47,9 @@ Mas, vi as soluções dos outros usuários e um deles me deu uma luz, resolver o
 <center>
 <img src = './Imagens/dia05.png', width = 800px>
 </center>
+
+## Dia 06 - 25/03
+- Terminei mais um módulo do curso de introdução a POO oferecido pela Alura.
+<center>
+<img src = './Imagens/dia06.jpg', width = 800px>
+</center>
