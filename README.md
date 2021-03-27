@@ -53,3 +53,9 @@ Mas, vi as soluções dos outros usuários e um deles me deu uma luz, resolver o
 <center>
 <img src = './Imagens/dia06.jpg', width = 800px>
 </center>
+
+## Dia 07 - 26/03
+- Fiz um exercício e meio do CodeWars. O segundo desafio está muito difícil e ainda estou tentando resolver uma parte do desafio. Terei que pesquisar mais sobre como fazer uma das etapas do desafio.
+<center>
+<img src = './Imagens/dia07.jpg', width = 800px>
+</center>
