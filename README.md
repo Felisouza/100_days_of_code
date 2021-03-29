@@ -59,3 +59,15 @@ Mas, vi as soluções dos outros usuários e um deles me deu uma luz, resolver o
 <center>
 <img src = './Imagens/dia07.jpg', width = 800px>
 </center>
+
+## Dia 08 - 27/03
+- Fiz um exercício da Alura de classe e testei a criação de classes criando uma calculadora.
+<center>
+<img src = './Imagens/dia08.jpg', width = 800px>
+</center>
+
+## Dia 09 - 28/03
+- Finalizei mais um módulo do curso de introdução a POO da Alura.
+<center>
+<img src = './Imagens/dia09.jpg', width = 800px>
+</center>
