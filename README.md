@@ -71,3 +71,10 @@ Mas, vi as soluções dos outros usuários e um deles me deu uma luz, resolver o
 <center>
 <img src = './Imagens/dia09.jpg', width = 800px>
 </center>
+
+## Dia 10 - 29/03
+- Tentei fazer um kata do CodeWars, mas não consegui terminar. O desafio é tirar os hífens de uma palavra e retorná-la toda junta, mas com a primeira letra depois do hífen maiúscula. Por exemplo a entrada 'Felipe-batista' deveria ser FelipeBatista.
+Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com mais de um, como 'Felipe-batista-de-souza' ainda não consegui.
+<center>
+<img src = './Imagens/dia10.jpg', width = 800px>
+</center>
