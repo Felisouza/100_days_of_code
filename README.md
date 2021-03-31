@@ -78,3 +78,10 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <center>
 <img src = './Imagens/dia10.jpg', width = 800px>
 </center>
+
+## Dia 11 - 30/03
+- Tentei novamente resolver o kata que tira os hífens, mas não consegui
+- Assisti um vídeo sobre raspagem de dados. No vídeo ela mostra como é possível coletar dados dos resultados da eleição para presidente da câmara dos deputados.
+<center>
+<img src = './Imagens/dia11.jpg', width = 800px>
+</center>
