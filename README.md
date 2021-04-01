@@ -85,3 +85,9 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <center>
 <img src = './Imagens/dia11.jpg', width = 800px>
 </center>
+
+## Dia 12 - 31/03
+- Estudei sobre as manipulação de arquivos json com a biblioteca Pandas.
+<center>
+<img src = './Imagens/dia12.jpg', width = 800px>
+</center>
