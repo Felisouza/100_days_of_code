@@ -97,3 +97,10 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <center>
 <img src = './Imagens/dia13.jpg', width = 800px>
 </center>
+
+## Dia 14 - 02/04
+- Terminei o curso de introdução a POO da Alura.
+- Tentei, novamente, resolver o kata que tira os hífens.
+<center>
+<img src = './Imagens/dia14.jpg', width = 800px>
+</center>
