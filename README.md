@@ -104,5 +104,3 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <center>
 <img src = './Imagens/dia14.jpg', width = 800px>
 </center>
-
-hsuhusah
