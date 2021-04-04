@@ -101,6 +101,13 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 ## Dia 14 - 02/04
 - Terminei o curso de introdução a POO da Alura.
 - Tentei, novamente, resolver o kata que tira os hífens.
-<center>
+<p align='center'>
 <img src = './Imagens/dia14.jpg', width = 800px>
-</center>
+</p>
+
+## Dia 15 - 03/04
+- Fiz um kata do CodeWars
+- Fiz mais alguns exercícios simples de outros sites, para testar outras plataformas, mas continuarei no CodeWars. Fui mais com a cara dele <3
+<p align='center'>
+<img src = './Imagens/dia15.jpg', width = 800px>
+</p>
