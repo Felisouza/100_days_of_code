@@ -111,3 +111,9 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <p align='center'>
 <img src = './Imagens/dia15.jpg', width = 800px>
 </p>
+
+## Dia 16 - 04/04
+- Estudando biblioteca Pandas e CSV para o projeto
+<p align='center'>
+<img src = './Imagens/dia16.gif', width = 800px>
+</p>
