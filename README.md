@@ -117,3 +117,9 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <p align='center'>
 <img src = './Imagens/dia16.gif', width = 800px>
 </p>
+
+## Dia 17 - 05/04
+- Trabalhando no projeto
+<p align='center'>
+<img src = './Imagens/dia17.jpg', width = 800px>
+</p>
