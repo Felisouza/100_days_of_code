@@ -1,4 +1,4 @@
-# 100_days_of_code
+# 30_days_of_code
 
 ## Dia 1
 - Estudei mais sobre dicionários. Explorei a documentação de dicionário no [python.org](https://docs.python.org/pt-br/3/tutorial/datastructures.html) e fiz alguns exercícios de dicionário
@@ -122,4 +122,23 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 - Trabalhando no projeto
 <p align='center'>
 <img src = './Imagens/dia17.jpg', width = 800px>
+</p>
+
+## Dias 18, 19, 20, 21
+- Finalizando o projeto
+<p align='center'>
+<img src = './Imagens/dias.jpg', width = 800px>
+</p>
+
+## Dias 22 e 23
+- Muito cansado e tirei o final de semana para descansar. O projeto me consumiu muito e não consegui pegar em nada para estudar nesse final de semana. Farei 2 dias a mais.
+<p align='center'>
+<img src = 'https://media.tenor.com/images/4e5e606edbd0bcecf4f6508ea210db30/tenor.gif', width = 800px>
+</p>
+
+## Dia 22
+- Comecei a explorar a documentação da [biblioteca padrão do Python](https://docs.python.org/pt-br/3/library/).
+- Para treinar POO comecei um exercício de construção de um objeto lanchonete. Peguei o exercício da [Computer science master](https://www.computersciencemaster.com.br/exercicio-sistema-de-lanchonete/)
+<p align='center'>
+<img src = './Imagens/dia22.jpg', width = 800px>
 </p>
