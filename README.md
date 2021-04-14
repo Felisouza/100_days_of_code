@@ -142,3 +142,9 @@ Consegui implementar uma lógica que tira apenas um hífen, mas com palavras com
 <p align='center'>
 <img src = './Imagens/dia22.jpg', width = 800px>
 </p>
+
+## Dia 23
+- Continuei o exercício de POO. Construção de uma sistema de lanchonete.
+<p align='center'>
+<img src = './Imagens/dia23.jpg', width = 800px>
+</p>
