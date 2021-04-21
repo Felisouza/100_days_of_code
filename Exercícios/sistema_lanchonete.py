@@ -32,13 +32,15 @@ class Pedido:
         pass
     
     def adiciona(self, item):
-        itens = []
-        self.itens = item
-        return self.itens
+        self.lista = []
+        self.lista.append(self.itens)
+        self.lista.append(item)
+        return self.lista
 
     def mostra(self):
-        return print(
-            f'Seu pedido tem {self.itens.nome}'
+        for i in self.lista:
+            print(
+            f'Seu pedido tem {i.nome}'
         )
 
 
@@ -50,6 +52,9 @@ class Pedido:
 
 
 class Nota_fiscal(Pedido):
+    #mostrar o nome do cliente
+    #mostrar o nome e o valor de tudo o que foi pedido
+    
     pass
 
 pedido = Pizza(50, 'ontem', 1, 'Marguerita')
